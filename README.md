@@ -1,5 +1,6 @@
 # SgLang-vs-vLLM Comparison
 ## on RTX 4090
+![Graph](performance_graph.png)
 
 # Sglang
 
